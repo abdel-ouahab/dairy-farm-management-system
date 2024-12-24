@@ -1,0 +1,81 @@
+{
+  "cows": [
+    {
+      "id": "24c29ffe-e58d-4a02-871b-f1e4265641e3",
+      "userID": "07105f20-2fc3-4f8a-a3d2-c7e2ad03e637",
+      "entrydate": "2024-12-18",
+      "strain": "holstein"
+    },
+    {
+      "id": "9e3deea0-937a-4574-916d-5e0d296094b2",
+      "userID": "07105f20-2fc3-4f8a-a3d2-c7e2ad03e637",
+      "entrydate": "2024-12-23",
+      "strain": "montbliard"
+    }
+  ],
+  "examinations": [
+    {
+      "id": "a5df5473-d844-459d-a943-bce3bf5cce2d",
+      "userID": "07105f20-2fc3-4f8a-a3d2-c7e2ad03e637",
+      "examinationdate": "2024-12-12",
+      "disease": "Bluetongue"
+    },
+    {
+      "id": "fdf4f505-f6e3-40e8-bf87-6c4ce6a61aa6",
+      "userID": "07105f20-2fc3-4f8a-a3d2-c7e2ad03e637",
+      "examinationdate": "2024-12-06",
+      "disease": "Botulism"
+    }
+  ],
+  "milk": [
+    {
+      "id": "a3d2b5e0-3075-41dd-a955-c1c0904908c4",
+      "userID": "07105f20-2fc3-4f8a-a3d2-c7e2ad03e637",
+      "milkquantity": "50",
+      "date": "2024-12-11"
+    },
+    {
+      "id": "80f68f08-4ed2-4846-90df-97f648889eee",
+      "userID": "07105f20-2fc3-4f8a-a3d2-c7e2ad03e637",
+      "milkquantity": "70",
+      "date": "2024-12-15"
+    }
+  ],
+  "births": [
+    {
+      "id": "35023528-6bd5-4fb3-a562-d69ade8f9403",
+      "userID": "07105f20-2fc3-4f8a-a3d2-c7e2ad03e637",
+      "datebirth": "2024-12-23",
+      "gender": "male",
+      "strain": "holstein"
+    },
+    {
+      "id": "6c1f7df7-d382-49a0-9e78-a8f976ed40ce",
+      "userID": "07105f20-2fc3-4f8a-a3d2-c7e2ad03e637",
+      "datebirth": "2022-02-08",
+      "gender": "male",
+      "strain": "holstein"
+    },
+    {
+      "id": "60f491db-ae89-4525-b2f8-88861e28e913",
+      "userID": "07105f20-2fc3-4f8a-a3d2-c7e2ad03e637",
+      "datebirth": "2024-12-11",
+      "gender": "male",
+      "strain": "montbliard"
+    },
+    {
+      "id": "5fd9ec05-0bfb-4a44-a28b-a649a1323248",
+      "userID": "07105f20-2fc3-4f8a-a3d2-c7e2ad03e637",
+      "datebirth": "2021-02-10",
+      "gender": "female",
+      "strain": "montbliard"
+    },
+    {
+      "id": "21c93966-6d6a-4249-8afb-d71b3fb99404",
+      "userID": "07105f20-2fc3-4f8a-a3d2-c7e2ad03e637",
+      "datebirth": "2024-12-01",
+      "gender": "male",
+      "strain": "holstein"
+    }
+  ]
+}
