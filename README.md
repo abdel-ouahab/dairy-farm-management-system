@@ -79,7 +79,7 @@ Add the following to .env:
   ```bash
   npm start
   ```
-The frontend should now be running at http://localhost:5173.
+The frontend should now be running at http://localhost:3000.
 
 ## Usage
 1. **Login to the Employee Portal:** View statistics related to cows, milk production, births, and diseases.
